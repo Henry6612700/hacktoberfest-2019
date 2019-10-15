@@ -334,3 +334,8 @@
 - Bio: Scienctist, developer
 - GitHub: [andreas-ra](https://github.com/andreas-ra)
 
+#### Name: [Henry](https://github.com/Henry6612700)
+- Place: Medan, Indonesia
+- Bio: Data Analyst
+- GitHub: [henry6612700](https://github.com/Henry6612700)
+
